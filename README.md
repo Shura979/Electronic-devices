@@ -1,2 +1,2 @@
 # Electronic-devices
-记录精彩瞬间
+电子设备的管理文档
